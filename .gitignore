@@ -12,4 +12,6 @@ DONE_AdONE/ovals/cora*
 DONE_AdONE/aemodel_adone.py
 DONE_AdONE/run_adone.py
 DONE_AdONE/config_adone
-DONE_AdONE/check.ipynb
+check.ipynb
+*.csv
+DONE_AdONE/log*
