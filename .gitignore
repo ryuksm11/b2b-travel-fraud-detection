@@ -15,3 +15,4 @@ DONE_AdONE/config_adone
 check.ipynb
 *.csv
 DONE_AdONE/log*
+Data/*.zip
